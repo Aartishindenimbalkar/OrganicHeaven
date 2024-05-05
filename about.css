@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Container{
+    width: 1170px;
+    margin:0 auto;
+}
+.Header{
+    width: 1170px; 
+    margin:0 auto;
+}
+.Header p{
+    width: 400px;
+    text-align: center;
+    font-size: 50px;
+}
+.Headerpara{
+    width: 1170;
+    height: 200px;
+}
+.HeaderimgA{
+    width: 1170;
+    height: 300px;
+    border: 3px solid greenyellow;
+}

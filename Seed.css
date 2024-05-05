@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Container{
+    width: 1170px;
+    margin:0 auto;
+}
+.Header{
+    width: 1170px; 
+    margin:0 auto;
+}
+.Header img {
+    display: inline;
+    margin-left:29px;
+}
+.Header p{
+     font-size:35px;
+    display: inline;
+    text-align: center;
+}
+.Nav{
+    width: 550px;
+    text-align: center;
+    float: right;
+    margin-top: 10px;
+}
+.NAV ul {
+    list-style-type: none;
+}
+.Nav ul li{
+    display: inline-block;
+    font-size: 15px;
+    margin-left: 20px;
+}
